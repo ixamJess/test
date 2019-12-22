@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "/Volumes/Data /Dev HTML CSS"
+	},
+	{
+		"path": "/Volumes/Data /Udemy course"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Udemy course"
+  }
+}
